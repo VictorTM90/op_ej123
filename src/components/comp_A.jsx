@@ -16,6 +16,5 @@ const Comp_A = ()=> {
 }
 
 
-
 export default Comp_A
 
